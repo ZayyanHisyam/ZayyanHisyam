@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to My Page!
+Welcome to My Page! \
 I'm Zayyan, Based in Indonesia
 
 
